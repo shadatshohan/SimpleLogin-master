@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337335636471",
+    "firebase_url": "https://attendencesystem-f0834.firebaseio.com",
+    "project_id": "attendencesystem-f0834",
+    "storage_bucket": "attendencesystem-f0834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337335636471:android:ea7c247e1b1008a7",
+        "android_client_info": {
+          "package_name": "com.mind.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337335636471-be7n4olj0h62igpm02j986o7djv3r087.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mind.simplelogin",
+            "certificate_hash": "9888c285c76e9048518c73cac2cc214b57a6a18f"
+          }
+        },
+        {
+          "client_id": "337335636471-kaj1ul35chp29v52fa5722f328s3o5km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkJHKT4Q2oD0nbMBZ8SXu-6GIXbinovw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337335636471-kaj1ul35chp29v52fa5722f328s3o5km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
